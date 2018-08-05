@@ -1,0 +1,21 @@
+PathwayTerm	DifGene	GeneInPathway	richFactor	P_Value
+Wnt signaling pathway	98	153	0.640522876	4.313E-10
+Calcium signaling pathway	114	185	0.616216216	5.36091E-10
+Oxytocin signaling pathway	99	158	0.626582278	2.06891E-09
+Proteoglycans in cancer	132	225	0.586666667	2.41608E-09
+Adrenergic signaling in cardiomyocytes	93	149	0.624161074	8.51663E-09
+Pathways in cancer	180	330	0.545454545	8.95074E-09
+Long-term potentiation	50	70	0.714285714	5.04026E-08
+ErbB signaling pathway	59	87	0.67816092	6.67996E-08
+Glioma	47	65	0.723076923	6.89295E-08
+MAPK signaling pathway	151	275	0.549090909	8.39466E-08
+Neurotrophin signaling pathway	81	130	0.623076923	8.76121E-08
+Focal adhesion	118	207	0.570048309	1.58862E-07
+Insulin signaling pathway	86	142	0.605633803	2.22297E-07
+Ras signaling pathway	127	227	0.559471366	2.28866E-07
+Dopaminergic synapse	80	131	0.610687023	3.59483E-07
+Rap1 signaling pathway	119	213	0.558685446	6.10002E-07
+Circadian entrainment	62	97	0.639175258	8.00239E-07
+FoxO signaling pathway	80	133	0.601503759	8.74109E-07
+cGMP-PKG signaling pathway	96	167	0.574850299	1.37014E-06
+Glutamatergic synapse	78	130	0.6	1.37643E-06

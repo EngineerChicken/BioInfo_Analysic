@@ -1,0 +1,31 @@
+GOTerm	DifGene	GeneInGO	richFactor	P_Value
+regulation of transcription, DNA-templated	1044	2550	0.409411765	1.49489E-09
+transcription, DNA-templated	977	2398	0.407422852	1.85159E-08
+positive regulation of transcription, DNA-templated	269	588	0.457482993	2.12453E-07
+actin cytoskeleton organization	94	173	0.543352601	3.78623E-07
+synaptic transmission	205	440	0.465909091	1.26217E-06
+transport	773	1908	0.405136268	2.06256E-06
+positive regulation of transcription from RNA polymerase II promoter	421	993	0.423967774	4.05771E-06
+nervous system development	227	501	0.453093812	4.35534E-06
+negative regulation of cell proliferation	199	432	0.460648148	4.56586E-06
+protein dephosphorylation	91	176	0.517045455	9.12988E-06
+chromatin modification	137	286	0.479020979	1.28355E-05
+multicellular organismal development	463	1112	0.416366906	1.29418E-05
+intracellular signal transduction	219	488	0.448770492	1.39994E-05
+regulation of small GTPase mediated signal transduction	84	165	0.509090909	4.13404E-05
+homophilic cell adhesion via plasma membrane adhesion molecules	78	152	0.513157895	5.3956E-05
+glycosaminoglycan metabolic process	62	116	0.534482759	6.63134E-05
+negative regulation of transcription from RNA polymerase II promoter	313	739	0.423545332	7.67508E-05
+small GTPase mediated signal transduction	310	732	0.423497268	8.37826E-05
+protein homooligomerization	90	182	0.494505495	9.01368E-05
+cell migration	100	206	0.485436893	9.50187E-05
+Rho protein signal transduction	37	62	0.596774194	9.94638E-05
+cytoskeleton organization	64	122	0.524590164	0.000106175
+regulation of JNK cascade	14	17	0.823529412	0.000109417
+positive regulation of GTPase activity	210	483	0.434782609	0.000206191
+negative regulation of cell migration	49	90	0.544444444	0.000206575
+positive regulation of MAPK cascade	48	88	0.545454545	0.00022514
+phosphorylation	327	785	0.41656051	0.000233279
+transcription from RNA polymerase II promoter	291	692	0.420520231	0.000242287
+histone H4-K20 demethylation	13	16	0.8125	0.000254806
+neurotrophin TRK receptor signaling pathway	175	396	0.441919192	0.000256875

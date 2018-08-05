@@ -1,0 +1,7 @@
+library(reshape2)
+library(ggplot2)
+Args <- commandArgs()
+data =read.table(Args[6],header=T)
+dm=melt(data)
+result=ggplot(dm)+geom_density(aes(x=log10(value),colour=variable),fill="#5CADAD",alpha=0.3)+theme_bw()+labs(x=expression(log[10](RPKM)),title="RPKM density distribution",fill="Sample")
+ggsave(result,file=Args[7])

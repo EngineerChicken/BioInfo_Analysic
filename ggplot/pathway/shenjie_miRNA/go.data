@@ -1,0 +1,41 @@
+GOID	GOTerm	QueryID	Symbol	Description	P-Value	FDR	Enrichment
+GO:0006355	regulation of transcription, DNA-templated	MBD2	MBD2	methyl-CpG binding domain protein 2	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	BNC1	BNC1	basonuclin 1	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	SREBF1	SREBF1	sterol regulatory element binding transcription factor 1	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ZFP2	ZFP2	ZFP2 zinc finger protein	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	GLIS3	GLIS3	GLIS family zinc finger 3	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ZFP92	ZFP92	ZFP92 zinc finger protein	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	FOXN3	FOXN3	forkhead box N3	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ZNF586	ZNF586	zinc finger protein 586	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	FADS1	FADS1	fatty acid desaturase 1	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ZNF740	ZNF740	zinc finger protein 740	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ZCCHC12	ZCCHC12	zinc finger, CCHC domain containing 12	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	MINA	MINA	MYC induced nuclear antigen	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	MEF2C	MEF2C	myocyte enhancer factor 2C	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	FSTL3	FSTL3	follistatin-like 3 (secreted glycoprotein)	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ILF3	ILF3	interleukin enhancer binding factor 3, 90kDa	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	VPS72	VPS72	vacuolar protein sorting 72 homolog (S. cerevisiae)	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	RERE	RERE	arginine-glutamic acid dipeptide (RE) repeats	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	PRMT1	PRMT1	protein arginine methyltransferase 1	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	FSBP	FSBP	fibrinogen silencer binding protein	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ZBTB41	ZBTB41	zinc finger and BTB domain containing 41	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	TLX2	TLX2	T-cell leukemia homeobox 2	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ZNF461	ZNF461	zinc finger protein 461	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	PRDM2	PRDM2	PR domain containing 2, with ZNF domain	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	PRDM7	PRDM7	PR domain containing 7	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	KAT8	KAT8	K(lysine) acetyltransferase 8	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ZNF282	ZNF282	zinc finger protein 282	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	CRTC1	CRTC1	CREB regulated transcription coactivator 1	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	RBM14	RBM14	RNA binding motif protein 14	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	HIRA	HIRA	histone cell cycle regulator	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	POM121C	POM121C	POM121 transmembrane nucleoporin C	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ZNF827	ZNF827	zinc finger protein 827	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	YAP1	YAP1	Yes-associated protein 1	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ARNT2	ARNT2	aryl-hydrocarbon receptor nuclear translocator 2	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	MYRF	MYRF	myelin regulatory factor	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	TBX4	TBX4	T-box 4	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	IKZF1	IKZF1	IKAROS family zinc finger 1 (Ikaros)	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	DPF3	DPF3	D4, zinc and double PHD fingers, family 3	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ZNF182	ZNF182	zinc finger protein 182	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	ELF2	ELF2	E74-like factor 2 (ets domain transcription factor)	1.49489E-09	1.2001E-05	1.147015682
+GO:0006355	regulation of transcription, DNA-templated	GLI4	GLI4	GLI family zinc finger 4	1.49489E-09	1.2001E-05	1.147015682

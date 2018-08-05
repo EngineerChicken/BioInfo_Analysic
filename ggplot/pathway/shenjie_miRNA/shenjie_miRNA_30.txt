@@ -1,0 +1,31 @@
+PathwayTerm	DifGene	GeneInPathway	richFactor	P_Value
+Endocytosis	109	204	0.534313725	1.43077E-08
+Axon guidance	71	131	0.541984733	2.43543E-06
+Oxytocin signaling pathway	81	158	0.512658228	8.765E-06
+Hippo signaling pathway	78	153	0.509803922	1.66497E-05
+Glioma	39	65	0.6	2.16773E-05
+Ras signaling pathway	108	227	0.475770925	2.4479E-05
+Proteoglycans in cancer	107	225	0.475555556	2.73289E-05
+Rap1 signaling pathway	102	213	0.478873239	2.93301E-05
+Phosphatidylinositol signaling system	46	81	0.567901235	3.01665E-05
+Wnt signaling pathway	77	153	0.503267974	3.3784E-05
+Insulin signaling pathway	72	142	0.507042254	4.40075E-05
+Pathways in cancer	145	330	0.439393939	0.000170141
+Neurotrophin signaling pathway	65	130	0.5	0.000173102
+Morphine addiction	49	93	0.52688172	0.000219171
+PI3K-Akt signaling pathway	150	347	0.432276657	0.000332928
+Inflammatory mediator regulation of TRP channels	51	99	0.515151515	0.000338737
+FoxO signaling pathway	65	133	0.488721805	0.000394653
+Prostate cancer	46	89	0.516853933	0.000592768
+Focal adhesion	94	207	0.45410628	0.000634022
+cGMP-PKG signaling pathway	78	167	0.467065868	0.000649592
+Chronic myeloid leukemia	39	73	0.534246575	0.000655
+Melanoma	38	71	0.535211268	0.000730443
+Glutamatergic synapse	62	130	0.476923077	0.001178701
+Cholinergic synapse	55	113	0.486725664	0.00121259
+Dopaminergic synapse	62	131	0.473282443	0.001496741
+mTOR signaling pathway	34	64	0.53125	0.001619039
+Estrogen signaling pathway	49	100	0.49	0.001831849
+Vascular smooth muscle contraction	57	121	0.47107438	0.002599172
+Gastric acid secretion	38	75	0.506666667	0.002739333
+ErbB signaling pathway	43	87	0.494252874	0.002758718

@@ -1,0 +1,8 @@
+library(reshape2)
+library(ggplot2)
+Args <- commandArgs()
+colours=c("#6093CA","#93CEB8","#F2CE84","#EE6181","#82D3F0","#C8ABEB","#FDA679","#AD8B66")
+data =read.table(Args[6],header=T,sep="\t")
+dm=melt(data)
+result=ggplot(dm,aes(x=variable,y=log10(value+1),fill=variable))+geom_boxplot()+labs(x="",y=expression(log[10](RPKM+1)),title="RPKM distribution",fill="Group")+theme(axis.text.x=element_text(angle=60,hjust=1))
+ggsave(result,file=Args[7])

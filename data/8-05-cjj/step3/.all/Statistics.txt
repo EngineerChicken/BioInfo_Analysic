@@ -1,0 +1,2 @@
+Compare	Software	Log2FC_Cutoff	FDR_Cutoff	AllGeneNum	UpGeneNum	DownGeneNum
+ACFVSALI	DESeq2	1.0	0.01	25598	41	27
